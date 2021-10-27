@@ -25,12 +25,11 @@ programa
 		escreva("Digite a nota 4:")
 		leia (nota4)
 
-    //Calculo da Media
+    		//Calculo da Media
 		media = (nota1+nota2+nota3+nota4) /4
 		escreva ("O aluno: " + aluno + "obteve " + media + " de media")
     
-    //Estrutura de decisão
-    
+    		//Estrutura de decisão
 		se(media>=7){
 			escreva("Esta Aprovado!")
 		}senao {
