@@ -6,7 +6,7 @@ programa
 		//Variavel
 		inteiro valor = 0
 		
-		//Entrada e Saida
+		//Entrada
 		escreva("Selecione sua Stream: 1- Netflix 2- Amazon Prime 3- HBO GO 4- Sair")
 		leia(valor)
 
