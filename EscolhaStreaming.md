@@ -2,11 +2,15 @@ programa
 {
 	
 	funcao inicio()
-	{
-		escreva("Selecione sua Stream: 1- Netflix 2- Amazon Prime 3- HBO GO 4- Sair") 
+	{ 
+		//Variavel
 		inteiro valor = 0
+		
+		//Entrada e Saida
+		escreva("Selecione sua Stream: 1- Netflix 2- Amazon Prime 3- HBO GO 4- Sair")
 		leia(valor)
 
+		//Entrutura de Decisão
 		escolha (valor)
 		{
 			caso 1:
