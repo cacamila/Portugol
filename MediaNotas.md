@@ -11,7 +11,7 @@ programa
 		real nota1, nota2, nota3, nota4, media
 		cadeia aluno
 
-		//Entradas e Saidas
+		//Entradas
     
 		escreva("Digite o nome do aluno:")
 		leia (aluno)
